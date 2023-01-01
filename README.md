@@ -1,48 +1,46 @@
 # Yo fella, I go by name offeex 👋
-> Dev, but what if autism was a person, [offeex.me](https://offeex.me)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=offeex&label=Profile%20views&color=0e75b6&style=flat" alt="offeex" /> </p>
+> Dev, but what if autism was a person, **[offeex.me](https://offeex.me)**
 
 ## Stack 🗼
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=flat-square&logo=kotlin&logoColor=eb15d9)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logoColor=ff8629&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAXFJREFUOE+V08GLTnEUxvHPyTQKqYnQpNBIyYKyEaspNQsbOyULC0uLiYXIxoKVkC2lZGVBk5WEspA/gMyGKEkzTWpCM6KjM/2u8nqNmVO3e7v3nu85z3POL/wnMjNwDA8jYqr39/q4aGTmGlzFlYh4vSxASz6D3TgaEV+WDMjMLa3ytqqOGTzrhfSV0CrfxrpKwnpcX7KEzBzFDZzFOZyKiKf9zPpXB3twC5da+xci4uZyAAW+iLfYi604HBHzi5qYmRuwC3N4gxEMYSeuYUeB8KKT9IeEzDyN8WbcS3zHML7hPR7hEI7UvSbSCyjXj+MAJvGzJRfoMWqRzmMTTpakv0xsEzjRtBag4isetOfq6H5E1F7oBygfLuMzPmGwJd7Bu4jooAuvFwCZuaJWFZX8HNuxH2ubjDJ0Ah+bya+6g9UBVraZ72vuT2O2VR5AFViNVfiBJ7hX3fyWkJkF2YwxHMTGllCcgpXmuj7gbrfWvwDownkRrwSiYQAAAABJRU5ErkJggg==)
+![Go](https://img.shields.io/badge/go-%23000000.svg?style=flat&logo=go&logoColor=16e5f7)
+![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=flat&logo=html5&logoColor=f76516)
+![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=flat&logo=css3&logoColor=1643f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=flat&logo=javascript&logoColor=f7e116)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23000000.svg?style=flat&logo=typescript&logoColor=165af7)
+![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=flat&logo=node.js&logoColor=5c31f7)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-000000?style=flat&logo=nuxtdotjs&logoColor=00DC82)
+![Svelte](https://img.shields.io/badge/Svelte-%23000000.svg?style=flat&logo=svelte&logoColor=ff931f)
+![Vue.js](https://img.shields.io/badge/Vue-%23000000.svg?style=flat&logo=vuedotjs&logoColor=4ff07d)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-000000.svg?style=flat&logo=Gradle&logoColor=85ffa7)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=flat&logo=mongodb&logoColor=0ec942)
+![Nginx](https://img.shields.io/badge/Nginx-%23000000.svg?style=flat&logo=nginx&logoColor=009e2f)
+![SQLite](https://img.shields.io/badge/SQLite-%23000000.svg?style=flat&logo=sqlite&logoColor=274fe3)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens&logoColor=c0e327)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23000000.svg?style=flat&logo=opengl&logoColor=fc6c2d)
 
 ## Toolchain 🛠
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=ff7363)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=flat&logo=visual-studio-code&logoColor=0098d4)
+![Brave](https://img.shields.io/badge/Brave-000000?style=flat&logo=Brave&logoColor=ff7b08)
 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-000000.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=f708ff)
+![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-000000.svg?style=flat&logo=Adobe%20Audition&logoColor=02bd9e)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23000000.svg?style=flat&logo=adobe%20photoshop&logoColor=00fffb)
+![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=flat&logo=figma&logoColor=9e31f7)
+
+## Stats 📊
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUOBXFx8lsQdMVRvtgSAeVg?color=000000&style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUOBXFx8lsQdMVRvtgSAeVg?color=000000&style=social)
+<img src="https://komarev.com/ghpvc/?username=offeex&label=Profile%20views&color=0e75b6&style=flat" alt="offeex" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offeex&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offeex&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Simp for me there 💎
-
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)

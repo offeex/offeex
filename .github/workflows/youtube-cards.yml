@@ -15,4 +15,5 @@ jobs:
           background_color: "#13141a"
           max_videos: 3
           stats_color: "#878894"
+          card_width: 280
           

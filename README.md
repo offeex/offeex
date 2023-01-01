@@ -55,7 +55,7 @@
 [![2B2T IS SUCH DISAPPOINTMENT](https://ytcards.demolab.com/?id=FEWXAKQK5xg&title=2B2T+IS+SUCH+DISAPPOINTMENT&lang=en&timestamp=1655035161&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=270 "2B2T IS SUCH DISAPPOINTMENT")](https://www.youtube.com/watch?v=FEWXAKQK5xg)
 <!-- END YOUTUBE-CARDS -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=offeex&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offeex&theme=radical&langs_count=8&layout=compact&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=offeex&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="180px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offeex&theme=radical&langs_count=8&layout=compact&hide_border=true" height="180px"/></a>
 
 **[offeex.me](https://offeex.me)**

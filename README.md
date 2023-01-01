@@ -56,11 +56,7 @@
 [![Nuking Discord Accounts...](https://ytcards.demolab.com/?id=Z_wlCf1oe5c&title=Nuking+Discord+Accounts...&lang=en&timestamp=1649944303&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Nuking Discord Accounts...")](https://www.youtube.com/watch?v=Z_wlCf1oe5c)
 <!-- END YOUTUBE-CARDS -->
 
-<!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUOBXFx8lsQdMVRvtgSAeVg?color=000000&style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUOBXFx8lsQdMVRvtgSAeVg?color=000000&style=social)
-<img src="https://komarev.com/ghpvc/?username=offeex&label=Profile%20views&color=0e75b6&style=flat" alt="offeex" /> -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offeex&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offeex&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=offeex&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offeex&theme=radical&langs_count=8&layout=compact&hide_border=true" height="192px"/></a>
 
 **[offeex.me](https://offeex.me)**

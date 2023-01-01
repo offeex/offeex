@@ -1,12 +1,11 @@
-# Yo fella, I go by name offeex 👋
-
-> Dev, but what if autism was a person, **[offeex.me](https://offeex.me)**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=500&size=32&duration=3000&pause=1000&color=E40F5F&width=480&height=55&lines=What+if+autism+was+a+dev%3F;offeex.me)](https://git.io/typing-svg)
 
 ## Stack 🗼
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=flat-square&logo=kotlin&logoColor=eb15d9)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logoColor=ff8629&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAXFJREFUOE+V08GLTnEUxvHPyTQKqYnQpNBIyYKyEaspNQsbOyULC0uLiYXIxoKVkC2lZGVBk5WEspA/gMyGKEkzTWpCM6KjM/2u8nqNmVO3e7v3nu85z3POL/wnMjNwDA8jYqr39/q4aGTmGlzFlYh4vSxASz6D3TgaEV+WDMjMLa3ytqqOGTzrhfSV0CrfxrpKwnpcX7KEzBzFDZzFOZyKiKf9zPpXB3twC5da+xci4uZyAAW+iLfYi604HBHzi5qYmRuwC3N4gxEMYSeuYUeB8KKT9IeEzDyN8WbcS3zHML7hPR7hEI7UvSbSCyjXj+MAJvGzJRfoMWqRzmMTTpakv0xsEzjRtBag4isetOfq6H5E1F7oBygfLuMzPmGwJd7Bu4jooAuvFwCZuaJWFZX8HNuxH2ubjDJ0Ah+bya+6g9UBVraZ72vuT2O2VR5AFViNVfiBJ7hX3fyWkJkF2YwxHMTGllCcgpXmuj7gbrfWvwDownkRrwSiYQAAAABJRU5ErkJggg==)
 ![Go](https://img.shields.io/badge/go-%23000000.svg?style=flat&logo=go&logoColor=16e5f7)
+
 ![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=flat&logo=html5&logoColor=f76516)
 ![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=flat&logo=css3&logoColor=1643f7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=flat&logo=javascript&logoColor=f7e116)
@@ -17,7 +16,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue-%23000000.svg?style=flat&logo=vuedotjs&logoColor=4ff07d)
 
 ![Gradle](https://img.shields.io/badge/Gradle-000000.svg?style=flat&logo=Gradle&logoColor=85ffa7)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=flat&logo=mongodb&logoColor=0ec942)
 ![Nginx](https://img.shields.io/badge/Nginx-%23000000.svg?style=flat&logo=nginx&logoColor=009e2f)
@@ -29,7 +27,7 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=ff7363)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=flat&logo=visual-studio-code&logoColor=0098d4)
-![Brave](https://img.shields.io/badge/Brave-000000?style=flat&logo=Brave&logoColor=ff7b08)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-000000.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=f708ff)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-000000.svg?style=flat&logo=Adobe%20Audition&logoColor=02bd9e)
@@ -44,3 +42,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offeex&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offeex&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+**[offeex.me](https://offeex.me)**

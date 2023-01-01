@@ -50,7 +50,10 @@
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![The End of Endless 2b2t Story](https://ytcards.demolab.com/?id=FRX9VmTEjr4&title=The+End+of+Endless+2b2t+Story&lang=en&timestamp=1671379207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "The End of Endless 2b2t Story")](https://www.youtube.com/watch?v=FRX9VmTEjr4)
+[![Uncovered TRUTH of 2b2t Base](https://ytcards.demolab.com/?id=jmkaBRbxO6A&title=Uncovered+TRUTH+of+2b2t+Base&lang=en&timestamp=1670261111&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Uncovered TRUTH of 2b2t Base")](https://www.youtube.com/watch?v=jmkaBRbxO6A)
+[![2B2T IS SUCH DISAPPOINTMENT](https://ytcards.demolab.com/?id=FEWXAKQK5xg&title=2B2T+IS+SUCH+DISAPPOINTMENT&lang=en&timestamp=1655035161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "2B2T IS SUCH DISAPPOINTMENT")](https://www.youtube.com/watch?v=FEWXAKQK5xg)
+[![Nuking Discord Accounts...](https://ytcards.demolab.com/?id=Z_wlCf1oe5c&title=Nuking+Discord+Accounts...&lang=en&timestamp=1649944303&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Nuking Discord Accounts...")](https://www.youtube.com/watch?v=Z_wlCf1oe5c)
 <!-- END YOUTUBE-CARDS -->
 
 <!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUOBXFx8lsQdMVRvtgSAeVg?color=000000&style=social)

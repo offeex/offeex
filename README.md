@@ -2,7 +2,7 @@
 
 <p>
     <a href="https://www.youtube.com/@offeex?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUOBXFx8lsQdMVRvtgSAeVg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-   badge&labelColor=CE4630"/>
+        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUOBXFx8lsQdMVRvtgSAeVg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a>
     <a href="https://github.com/offeex?tab=repositories&sort=stargazers">
        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/offeex?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>

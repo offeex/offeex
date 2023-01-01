@@ -1,14 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=500&size=32&duration=3000&pause=1000&color=E40F5F&width=480&height=55&lines=What+if+autism+was+a+dev%3F;offeex.me)](https://git.io/typing-svg)
 
-<a href="https://www.youtube.com/@offeex?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUOBXFx8lsQdMVRvtgSAeVg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-</a>
-<a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-</a>
-<a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
-</a>
+<p>
+    <a href="https://www.youtube.com/@offeex?sub_confirmation=1">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUOBXFx8lsQdMVRvtgSAeVg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-   badge&labelColor=CE4630"/>
+    </a>
+    <a href="https://github.com/offeex?tab=repositories&sort=stargazers">
+       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/offeex?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a>
+    <a href="https://discord.gg/89j7Q5QZ7g" alt="The Breakery">
+      <img src="https://img.shields.io/discord/873259271276601354?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/>
+    </a>
+</p>
+
+Developer from 🇺🇦 Kyiv, Ukraine . I make minecraft mods, 2b2t clients, websites. Kotlin enjoyer
+- 🚮 **Pronounce: He/Him** (least tranny kotlin dev)
+- 💀 **Never touches grass**
+- 🫠 **Plays based IO games**
+- 🌳 **Would like to take a walk with anybody**
 
 ## Stack 🗼
 
@@ -57,5 +65,3 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offeex&theme=radical&langs_count=8&layout=compact&hide_border=true" height="175px"/></a>
 
 **[offeex.me](https://offeex.me)**
-
-**[discord](https://discord.gg/89j7Q5QZ7g)**

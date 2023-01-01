@@ -50,9 +50,9 @@
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![The End of Endless 2b2t Story](https://ytcards.demolab.com/?id=FRX9VmTEjr4&title=The+End+of+Endless+2b2t+Story&lang=en&timestamp=1671379207&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=250 "The End of Endless 2b2t Story")](https://www.youtube.com/watch?v=FRX9VmTEjr4)
-[![Uncovered TRUTH of 2b2t Base](https://ytcards.demolab.com/?id=jmkaBRbxO6A&title=Uncovered+TRUTH+of+2b2t+Base&lang=en&timestamp=1670261111&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=250 "Uncovered TRUTH of 2b2t Base")](https://www.youtube.com/watch?v=jmkaBRbxO6A)
-[![2B2T IS SUCH DISAPPOINTMENT](https://ytcards.demolab.com/?id=FEWXAKQK5xg&title=2B2T+IS+SUCH+DISAPPOINTMENT&lang=en&timestamp=1655035161&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=250 "2B2T IS SUCH DISAPPOINTMENT")](https://www.youtube.com/watch?v=FEWXAKQK5xg)
+[![The End of Endless 2b2t Story](https://ytcards.demolab.com/?id=FRX9VmTEjr4&title=The+End+of+Endless+2b2t+Story&lang=en&timestamp=1671379207&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=280 "The End of Endless 2b2t Story")](https://www.youtube.com/watch?v=FRX9VmTEjr4)
+[![Uncovered TRUTH of 2b2t Base](https://ytcards.demolab.com/?id=jmkaBRbxO6A&title=Uncovered+TRUTH+of+2b2t+Base&lang=en&timestamp=1670261111&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=280 "Uncovered TRUTH of 2b2t Base")](https://www.youtube.com/watch?v=jmkaBRbxO6A)
+[![2B2T IS SUCH DISAPPOINTMENT](https://ytcards.demolab.com/?id=FEWXAKQK5xg&title=2B2T+IS+SUCH+DISAPPOINTMENT&lang=en&timestamp=1655035161&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=280 "2B2T IS SUCH DISAPPOINTMENT")](https://www.youtube.com/watch?v=FEWXAKQK5xg)
 <!-- END YOUTUBE-CARDS -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=offeex&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="192px"/></a>

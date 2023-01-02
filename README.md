@@ -13,7 +13,7 @@
 </p>
 
 Developer from 🇺🇦 Kyiv, Ukraine . I make minecraft mods, 2b2t clients, websites. Kotlin enjoyer
-- 🚮 **Pronounce: He/Him** (least tranny kotlin dev)
+- 🚮 **Pronounce: He/Him** (least tranny kotlin dev, but may change gender whenever feel embarrassed)
 - 💀 **Never touches grass**
 - 🫠 **Plays based IO games**
 - 🌳 **Would like to take a walk with anybody**

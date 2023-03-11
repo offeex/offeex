@@ -18,6 +18,14 @@ Computing god, dev from 🇺🇦 Kyiv, Ukraine . I make minecraft mods, 2b2t stu
 - 🫠 **Plays based IO games**
 - 🌳 **Would like to ~~smoke~~ touch.. grass with anybody**
 
+## Inclines
+
+![Fabric modding](https://img.shields.io/badge/Fabric_Modding-black?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA4CAYAAACyutuQAAABhklEQVRoge2aIU8DQRCFKalAEDAHqaLoJjgEvgnhB9RSQaqQFTVtEARBKu4X4Gr7AwgJHoFrUt8qAmdqiqS2867ZyXJzZZjM5ybb2+7L7Mvb7F1lZ8tcnDd+1uu392lFcv5dyck04IK0I7p/N4GeGT0Nyfh1p0fqop4y1yEXpJ3qtv/wK1uQeoOnCuWUuQ65IO2I51Bs7jzcdUldP6kFf895ylyHXJB2CnsIPZM+9sn4UXIYfF7aU+Y65IK0E+0hLmcQPLsV9dTgPg0+b65DLkg7rIdiPcOBnkKWy29So2euLpukfn55JbW5Drkg7eTuFMrOGRyfzT/CKwTQM36W+2+YE1RFz/S6t1EToCe4nOE8hrnj93J/vQBpzAnK5VCWfZJ6MqXjZ43T4IRczszm4bOavx8CXJB2cvsVc+mm3SLjSXJMas5T6CFpzyDmOuSCtBN9p8B56mB/j9RlewYx1yEXpB32O4X8nh8HPTVMxwLL+j3mOuSCtCP+jhUpO3cQcx1yQdpZAQ2AgyOnnd+HAAAAAElFTkSuQmCC)
+![Discord Bots](https://img.shields.io/badge/Discord_Bots-%23000000.svg?style=flat&logo=discord&logoColor=4f5bff)
+![Web Dev](https://img.shields.io/badge/Web_Dev-%23000000.svg?style=flat&logo=html5&logoColor=f76516)
+![Graphics](https://img.shields.io/badge/Graphics-%23000000.svg?style=flat&logo=opengl&logoColor=fc6c2d)
+![Computations](https://img.shields.io/badge/Computations-%23000000.svg?style=flat&logo=nvidia&logoColor=1cfc4c)
+
 ## Stack 🗼
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=flat-square&logo=kotlin&logoColor=eb15d9)
@@ -40,7 +48,6 @@ Computing god, dev from 🇺🇦 Kyiv, Ukraine . I make minecraft mods, 2b2t stu
 ![Nginx](https://img.shields.io/badge/Nginx-%23000000.svg?style=flat&logo=nginx&logoColor=009e2f)
 ![SQLite](https://img.shields.io/badge/SQLite-%23000000.svg?style=flat&logo=sqlite&logoColor=274fe3)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens&logoColor=c0e327)
-![Fabric](https://img.shields.io/badge/-Fabric-black?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA4CAYAAACyutuQAAABhklEQVRoge2aIU8DQRCFKalAEDAHqaLoJjgEvgnhB9RSQaqQFTVtEARBKu4X4Gr7AwgJHoFrUt8qAmdqiqS2867ZyXJzZZjM5ybb2+7L7Mvb7F1lZ8tcnDd+1uu392lFcv5dyck04IK0I7p/N4GeGT0Nyfh1p0fqop4y1yEXpJ3qtv/wK1uQeoOnCuWUuQ65IO2I51Bs7jzcdUldP6kFf895ylyHXJB2CnsIPZM+9sn4UXIYfF7aU+Y65IK0E+0hLmcQPLsV9dTgPg0+b65DLkg7rIdiPcOBnkKWy29So2euLpukfn55JbW5Drkg7eTuFMrOGRyfzT/CKwTQM36W+2+YE1RFz/S6t1EToCe4nOE8hrnj93J/vQBpzAnK5VCWfZJ6MqXjZ43T4IRczszm4bOavx8CXJB2cvsVc+mm3SLjSXJMas5T6CFpzyDmOuSCtBN9p8B56mB/j9RlewYx1yEXpB32O4X8nh8HPTVMxwLL+j3mOuSCtCP+jhUpO3cQcx1yQdpZAQ2AgyOnnd+HAAAAAElFTkSuQmCC)
 
 ![CUDA](https://img.shields.io/badge/CUDA-%23000000.svg?style=flat&logo=nvidia&logoColor=1cfc4c)
 ![OpenCL](https://img.shields.io/badge/OpenCL-%23000000.svg?style=flat&logo=opencl&logoColor=fc6c2d)

@@ -12,7 +12,7 @@
     </a>
 </p>
 
-Computing god, dev from 🇺🇦 Kyiv, Ukraine . I make minecraft mods, 2b2t stuff, websites. Kotlin enjoyer, sigma gigachad on Rust
+Computing god, dev from 🇺🇦 Kyiv, Ukraine . I make mods, 2b2t stuff, websites. Kotlin enjoyer, sigma gigachad on Rust
 - 🚮 **Pronounce: He/Him** (least tranny kotlin dev, but may change gender whenever feel embarrassed)
 - 💀 **Never touches grass**
 - 🫠 **Plays based IO games**

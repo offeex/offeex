@@ -67,9 +67,9 @@ Computing god, dev from 🇺🇦 Kyiv, Ukraine . I make minecraft mods, 2b2t stu
 ## Stats 📊
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![i removed gravity..](https://ytcards.demolab.com/?id=-GE0vbwTuWs&title=i+removed+gravity..&lang=en&timestamp=1677173747&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=270 "i removed gravity..")](https://www.youtube.com/watch?v=-GE0vbwTuWs)
+<!-- [![i removed gravity..](https://ytcards.demolab.com/?id=-GE0vbwTuWs&title=i+removed+gravity..&lang=en&timestamp=1677173747&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=270 "i removed gravity..")](https://www.youtube.com/watch?v=-GE0vbwTuWs)
 [![The End of Endless 2b2t Story](https://ytcards.demolab.com/?id=FRX9VmTEjr4&title=The+End+of+Endless+2b2t+Story&lang=en&timestamp=1671379207&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=270 "The End of Endless 2b2t Story")](https://www.youtube.com/watch?v=FRX9VmTEjr4)
-[![Uncovered TRUTH of 2b2t Base](https://ytcards.demolab.com/?id=jmkaBRbxO6A&title=Uncovered+TRUTH+of+2b2t+Base&lang=en&timestamp=1670261111&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=270 "Uncovered TRUTH of 2b2t Base")](https://www.youtube.com/watch?v=jmkaBRbxO6A)
+[![Uncovered TRUTH of 2b2t Base](https://ytcards.demolab.com/?id=jmkaBRbxO6A&title=Uncovered+TRUTH+of+2b2t+Base&lang=en&timestamp=1670261111&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=270 "Uncovered TRUTH of 2b2t Base")](https://www.youtube.com/watch?v=jmkaBRbxO6A) -->
 <!-- END YOUTUBE-CARDS -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=offeex&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="175px"/></a>

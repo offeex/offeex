@@ -1,68 +1,63 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=500&size=32&duration=3000&pause=1000&color=E40F5F&width=480&height=55&lines=What+if+autism+was+a+dev%3F;offeex.me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=500&size=32&duration=3000&pause=1000&color=E40F5F&width=480&height=55&lines=What+if+autism+was+a+dev%3F;offeex.me)](https://offeex.me/)
 
-<p>
-    <a href="https://www.youtube.com/@offeex?sub_confirmation=1">
-        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUOBXFx8lsQdMVRvtgSAeVg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a>
-    <a href="https://github.com/offeex?tab=repositories&sort=stargazers">
-       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/offeex?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-    </a>
-    <a href="https://discord.gg/89j7Q5QZ7g" alt="The Breakery">
-      <img src="https://img.shields.io/discord/873259271276601354?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/>
-    </a>
-</p>
+### Pronouns: who/cares
+Amateur desperate developer from 🇺🇦 Kyiv, Ukraine. I make all sorts of stuff. Previously been developing minecraft mods, which ultimately led me to burnout and held a youtube channel. Love ricing linux desktops, *i use arch BTW!*
 
-Computing god, dev from 🇺🇦 Kyiv, Ukraine . I make mods, 2b2t stuff, websites. Kotlin enjoyer, sigma gigachad on Rust
-- 🚮 **Pronounce: He/Him** (least tranny kotlin dev, but may change gender whenever feel embarrassed)
-- 💀 **Never touches grass**
-- 🫠 **Plays based IO games**
-- 🌳 **Would like to ~~smoke~~ touch.. grass with anybody**
+### Goals
+- Learn Rust
+- Create my own distro
+- Create a game (well, that one would take tons of time)
 
-## Inclines
+#### Currently working on: _See pinned_
 
-![Fabric modding](https://img.shields.io/badge/Fabric_Modding-black?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA4CAYAAACyutuQAAABhklEQVRoge2aIU8DQRCFKalAEDAHqaLoJjgEvgnhB9RSQaqQFTVtEARBKu4X4Gr7AwgJHoFrUt8qAmdqiqS2867ZyXJzZZjM5ybb2+7L7Mvb7F1lZ8tcnDd+1uu392lFcv5dyck04IK0I7p/N4GeGT0Nyfh1p0fqop4y1yEXpJ3qtv/wK1uQeoOnCuWUuQ65IO2I51Bs7jzcdUldP6kFf895ylyHXJB2CnsIPZM+9sn4UXIYfF7aU+Y65IK0E+0hLmcQPLsV9dTgPg0+b65DLkg7rIdiPcOBnkKWy29So2euLpukfn55JbW5Drkg7eTuFMrOGRyfzT/CKwTQM36W+2+YE1RFz/S6t1EToCe4nOE8hrnj93J/vQBpzAnK5VCWfZJ6MqXjZ43T4IRczszm4bOavx8CXJB2cvsVc+mm3SLjSXJMas5T6CFpzyDmOuSCtBN9p8B56mB/j9RlewYx1yEXpB32O4X8nh8HPTVMxwLL+j3mOuSCtCP+jhUpO3cQcx1yQdpZAQ2AgyOnnd+HAAAAAElFTkSuQmCC)
-![Discord Bots](https://img.shields.io/badge/Discord_Bots-%23000000.svg?style=flat&logo=discord&logoColor=4f5bff)
-![Web Dev](https://img.shields.io/badge/Web_Dev-%23000000.svg?style=flat&logo=html5&logoColor=f76516)
-![Graphics](https://img.shields.io/badge/Graphics-%23000000.svg?style=flat&logo=opengl&logoColor=fc6c2d)
-![Computations](https://img.shields.io/badge/Computations-%23000000.svg?style=flat&logo=nvidia&logoColor=1cfc4c)
+### Reach me
+<a href="https://www.youtube.com/@offeex">
+    <img width="32" height="32" src="https://img.icons8.com/color/48/youtube-play.png"/>
+<a href="https://www.linkedin.com/in/offeex">
+    <img width="32" height="32" src="https://img.icons8.com/color/48/linkedin.png" />
+<a href="https://t.me/offeex">
+    <img width="32" height="32" src="https://img.icons8.com/color/48/telegram-app--v1.png"/>
+<a href="https://discord.gg/skZAphjpaJ">
+    <img width="32" height="32" src="https://img.icons8.com/color/48/discord-logo.png" />
 
-## Stack 🗼
+## Skills
 
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-%23000000.svg?style=flat&logo=typescript&logoColor=165af7)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=flat-square&logo=kotlin&logoColor=eb15d9)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logoColor=ff8629&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAXFJREFUOE+V08GLTnEUxvHPyTQKqYnQpNBIyYKyEaspNQsbOyULC0uLiYXIxoKVkC2lZGVBk5WEspA/gMyGKEkzTWpCM6KjM/2u8nqNmVO3e7v3nu85z3POL/wnMjNwDA8jYqr39/q4aGTmGlzFlYh4vSxASz6D3TgaEV+WDMjMLa3ytqqOGTzrhfSV0CrfxrpKwnpcX7KEzBzFDZzFOZyKiKf9zPpXB3twC5da+xci4uZyAAW+iLfYi604HBHzi5qYmRuwC3N4gxEMYSeuYUeB8KKT9IeEzDyN8WbcS3zHML7hPR7hEI7UvSbSCyjXj+MAJvGzJRfoMWqRzmMTTpakv0xsEzjRtBag4isetOfq6H5E1F7oBygfLuMzPmGwJd7Bu4jooAuvFwCZuaJWFZX8HNuxH2ubjDJ0Ah+bya+6g9UBVraZ72vuT2O2VR5AFViNVfiBJ7hX3fyWkJkF2YwxHMTGllCcgpXmuj7gbrfWvwDownkRrwSiYQAAAABJRU5ErkJggg==)
 ![Go](https://img.shields.io/badge/Go-%23000000.svg?style=flat&logo=go&logoColor=16e5f7)
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=flat&logo=c&logoColor=1c5bfc)
 
-![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=flat&logo=html5&logoColor=f76516)
-![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=flat&logo=css3&logoColor=1643f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=flat&logo=javascript&logoColor=f7e116)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23000000.svg?style=flat&logo=typescript&logoColor=165af7)
-![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=flat&logo=node.js&logoColor=5c31f7)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-000000?style=flat&logo=nuxtdotjs&logoColor=00DC82)
-![Svelte](https://img.shields.io/badge/Svelte-%23000000.svg?style=flat&logo=svelte&logoColor=ff931f)
-![Vue.js](https://img.shields.io/badge/Vue-%23000000.svg?style=flat&logo=vuedotjs&logoColor=4ff07d)
+### Frontend
+![](https://img.shields.io/badge/React/NextJS-000000?style=flat&logo=react&logoColor=59e6ff)
+![](https://img.shields.io/badge/Redux-000000?style=flat&logo=redux)
+![Vue.js](https://img.shields.io/badge/Vue/NuxtJS-%23000000.svg?style=flat&logo=vuedotjs&logoColor=4ff07d)
+![Svelte](https://img.shields.io/badge/SvelteKit-%23000000.svg?style=flat&logo=svelte&logoColor=ff931f)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat&logo=vite)
 
-![Gradle](https://img.shields.io/badge/Gradle-000000.svg?style=flat&logo=Gradle&logoColor=85ffa7)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)
+### Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=flat&logo=node.js&logoColor=5c31f7)
+![NodeJS](https://img.shields.io/badge/Express/Koa-000000?style=flat&logo=express)
+![NodeJS](https://img.shields.io/badge/Spring-000000?style=flat&logo=spring)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=flat&logo=mongodb&logoColor=0ec942)
-![Nginx](https://img.shields.io/badge/Nginx-%23000000.svg?style=flat&logo=nginx&logoColor=009e2f)
+![SQLite](https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/MySQL-%23000000.svg?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-%23000000.svg?style=flat&logo=sqlite&logoColor=274fe3)
+
+![JWT](https://img.shields.io/badge/OAuth2-black?style=flat&logo=JSON%20web%20tokens&logoColor=oauth)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens&logoColor=c0e327)
+
+### Deployment
+![NodeJS](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-%23000000.svg?style=flat&logo=nginx&logoColor=009e2f)
+
+### Misc
 
 ![CUDA](https://img.shields.io/badge/CUDA-%23000000.svg?style=flat&logo=nvidia&logoColor=1cfc4c)
 ![OpenCL](https://img.shields.io/badge/OpenCL-%23000000.svg?style=flat&logo=opencl&logoColor=fc6c2d)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23000000.svg?style=flat&logo=opengl&logoColor=fc6c2d)
-
-## Toolchain 🛠
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=ff7363)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=flat&logo=visual-studio-code&logoColor=0098d4)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-000000.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=f708ff)
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-000000.svg?style=flat&logo=Adobe%20Audition&logoColor=02bd9e)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23000000.svg?style=flat&logo=adobe%20photoshop&logoColor=00fffb)
-![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=flat&logo=figma&logoColor=9e31f7)
 
 ## Stats 📊
 
@@ -74,5 +69,3 @@ Computing god, dev from 🇺🇦 Kyiv, Ukraine . I make mods, 2b2t stuff, websit
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=offeex&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="175px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offeex&theme=radical&langs_count=8&layout=compact&hide_border=true" height="175px"/></a>
-
-**[offeex.me](https://offeex.me)**

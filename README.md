@@ -13,19 +13,11 @@ Amateur developer from 🇺🇦 Kyiv, Ukraine. Previously been developing minecr
     <img width="32" height="32" src="https://img.icons8.com/color/48/discord-logo.png" /></a>
 
 ### Linux Journey
-Manjaro -> Ubuntu -> EndeavourOS -> Arch -> NixOS -> CachyOS
+Manjaro 🠖 Ubuntu 🠖 EndeavourOS 🠖 Arch 🠖 NixOS 🠖 **CachyOS**⠀«⠀«⠀«⠀[**Dotfiles**](https://github.com/offeex/dotfiles)
 
-## Preferred Tools
+### Preferred Tools
 
-![Languages](https://skillicons.dev/icons?i=kotlin,go,rust&theme=dark)
-
-![Frontend](https://skillicons.dev/icons?i=svelte,vite,figma&theme=dark)
-
-![Backend](https://skillicons.dev/icons?i=spring,nodejs&theme=dark)
-
-![Database](https://skillicons.dev/icons?i=mongodb,postgresql,sqlite&theme=dark)
-
-![DevOps](https://skillicons.dev/icons?i=docker,nginx,nix&theme=dark)
+![Languages](https://skillicons.dev/icons?i=kotlin,go,rust,svelte,spring,mongodb,postgresql,docker,nginx,nix,arch&theme=dark)
 
 <details>
 <summary> Other Knowledge </summary>
@@ -34,11 +26,14 @@ Manjaro -> Ubuntu -> EndeavourOS -> Arch -> NixOS -> CachyOS
 ![](https://img.shields.io/badge/CUDA-%23000000.svg?style=flat&logo=nvidia&logoColor=1cfc4c)
 ![](https://img.shields.io/badge/OpenGL-%23000000.svg?style=flat&logo=opengl&logoColor=fc6c2d)
 ![](https://img.shields.io/badge/C-%23000000.svg?style=flat&logo=c&logoColor=1c5bfc)
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logoColor=ff8629&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAXFJREFUOE+V08GLTnEUxvHPyTQKqYnQpNBIyYKyEaspNQsbOyULC0uLiYXIxoKVkC2lZGVBk5WEspA/gMyGKEkzTWpCM6KjM/2u8nqNmVO3e7v3nu85z3POL/wnMjNwDA8jYqr39/q4aGTmGlzFlYh4vSxASz6D3TgaEV+WDMjMLa3ytqqOGTzrhfSV0CrfxrpKwnpcX7KEzBzFDZzFOZyKiKf9zPpXB3twC5da+xci4uZyAAW+iLfYi604HBHzi5qYmRuwC3N4gxEMYSeuYUeB8KKT9IeEzDyN8WbcS3zHML7hPR7hEI7UvSbSCyjXj+MAJvGzJRfoMWqRzmMTTpakv0xsEzjRtBag4isetOfq6H5E1F7oBygfLuMzPmGwJd7Bu4jooAuvFwCZuaJWFZX8HNuxH2ubjDJ0Ah+bya+6g9UBVraZ72vuT2O2VR5AFViNVfiBJ7hX3fyWkJkF2YwxHMTGllCcgpXmuj7gbrfWvwDownkRrwSiYQAAAABJRU5ErkJggg==)
+![](https://img.shields.io/badge/-Java-black?style=flat&logoColor=ff8629&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAXFJREFUOE+V08GLTnEUxvHPyTQKqYnQpNBIyYKyEaspNQsbOyULC0uLiYXIxoKVkC2lZGVBk5WEspA/gMyGKEkzTWpCM6KjM/2u8nqNmVO3e7v3nu85z3POL/wnMjNwDA8jYqr39/q4aGTmGlzFlYh4vSxASz6D3TgaEV+WDMjMLa3ytqqOGTzrhfSV0CrfxrpKwnpcX7KEzBzFDZzFOZyKiKf9zPpXB3twC5da+xci4uZyAAW+iLfYi604HBHzi5qYmRuwC3N4gxEMYSeuYUeB8KKT9IeEzDyN8WbcS3zHML7hPR7hEI7UvSbSCyjXj+MAJvGzJRfoMWqRzmMTTpakv0xsEzjRtBag4isetOfq6H5E1F7oBygfLuMzPmGwJd7Bu4jooAuvFwCZuaJWFZX8HNuxH2ubjDJ0Ah+bya+6g9UBVraZ72vuT2O2VR5AFViNVfiBJ7hX3fyWkJkF2YwxHMTGllCcgpXmuj7gbrfWvwDownkRrwSiYQAAAABJRU5ErkJggg==)
 ![](https://img.shields.io/badge/OAuth2-black?style=flat&logo=JSON%20web%20tokens&logoColor=oauth)
 ![](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens&logoColor=c0e327)
 ![](https://img.shields.io/badge/DevBox-000000?style=flat&logo=box&logoColor=5dd9a3)
-
+![](https://img.shields.io/badge/Express-000000?style=flat&logo=node.js&logoColor=5c31f7)
+![](https://img.shields.io/badge/SQLite-%23000000.svg?style=flat&logo=sqlite&logoColor=274fe3)
+![](https://img.shields.io/badge/Vite-000000?style=flat&logo=vite)
+![](https://img.shields.io/badge/Figma-%23000000.svg?style=flat&logo=figma&logoColor=9e31f7)
 
 </details>
 

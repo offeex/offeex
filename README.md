@@ -1,7 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=500&size=32&duration=3000&pause=1000&color=E40F5F&width=480&height=55&lines=What+if+autism+was+a+dev%3F;offeex.me)](https://offeex.me/)
 
 ### Pronouns: who/cares
-Amateur developer from 🇺🇦 Kyiv, Ukraine. Previously been developing minecraft mods, which ultimately led me to burnout and also held a youtube channel. Spent fuckin dozens of months "ricing" linux
+<p>
+  <b> 🇰🇵 North-korean ha.. i mean developer from Kyiv 🇺🇦 </b> <br>
+  <b> Previously been developing minecraft mods, formerly known as a youtuber <b/> <br> 
+</p>
 
 ### Linux Journey
 Manjaro 🠖 Ubuntu 🠖 EndeavourOS 🠖 Arch 🠖 NixOS 🠖 **CachyOS**⠀«⠀«⠀«⠀[**Dotfiles**](https://github.com/offeex/dotfiles)

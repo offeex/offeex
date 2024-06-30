@@ -3,15 +3,6 @@
 ### Pronouns: who/cares
 Amateur developer from 🇺🇦 Kyiv, Ukraine. Previously been developing minecraft mods, which ultimately led me to burnout and also held a youtube channel. Spent fuckin dozens of months "ricing" linux
 
-<a href="https://www.youtube.com/@offeex">
-    <img width="32" height="32" src="https://img.icons8.com/color/48/youtube-play.png"/></a>
-<a href="https://www.linkedin.com/in/offeex">
-    <img width="32" height="32" src="https://img.icons8.com/color/48/linkedin.png" /></a>
-<a href="https://t.me/offeex">
-    <img width="32" height="32" src="https://img.icons8.com/color/48/telegram-app--v1.png"/></a>
-<a href="https://discord.gg/skZAphjpaJ">
-    <img width="32" height="32" src="https://img.icons8.com/color/48/discord-logo.png" /></a>
-
 ### Linux Journey
 Manjaro 🠖 Ubuntu 🠖 EndeavourOS 🠖 Arch 🠖 NixOS 🠖 **CachyOS**⠀«⠀«⠀«⠀[**Dotfiles**](https://github.com/offeex/dotfiles)
 
@@ -37,7 +28,7 @@ Manjaro 🠖 Ubuntu 🠖 EndeavourOS 🠖 Arch 🠖 NixOS 🠖 **CachyOS**⠀«�
 
 </details>
 
-## Stats 📊
+<br/>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- [![i removed gravity..](https://ytcards.demolab.com/?id=-GE0vbwTuWs&title=i+removed+gravity..&lang=en&timestamp=1677173747&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=270 "i removed gravity..")](https://www.youtube.com/watch?v=-GE0vbwTuWs)

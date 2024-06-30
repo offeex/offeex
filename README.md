@@ -3,11 +3,6 @@
 ### Pronouns: who/cares
 Amateur desperate developer from 🇺🇦 Kyiv, Ukraine. I make all sorts of stuff. Previously been developing minecraft mods, which ultimately led me to burnout and held a youtube channel. Love ricing linux desktops, *i use arch BTW!*
 
-### Goals
-- Learn Rust
-- Create my own distro
-- Create a game (well, that one would take tons of time)
-
 #### Currently working on: _See pinned_
 
 ### Reach me

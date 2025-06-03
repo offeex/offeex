@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=500&size=32&duration=3000&pause=1000&color=E40F5F&width=480&height=55&lines=What+if+autism+was+a+dev%3F;offsdf.me)](https://offsdf.me/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=400&color=00F775&width=435&lines=what+if+autism+was+a+dev%3F;t.me%2Foffsdff)](https://git.io/typing-svg)
 
 ### Pronouns: who/cares
 <p>

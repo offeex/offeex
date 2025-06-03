@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=500&size=32&duration=3000&pause=1000&color=E40F5F&width=480&height=55&lines=What+if+autism+was+a+dev%3F;offeex.me)](https://offeex.me/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=500&size=32&duration=3000&pause=1000&color=E40F5F&width=480&height=55&lines=What+if+autism+was+a+dev%3F;offsdf.me)](https://offsdf.me/)
 
 ### Pronouns: who/cares
 <p>
@@ -7,7 +7,7 @@
 </p>
 
 ### Linux Journey
-Manjaro 🠖 Ubuntu 🠖 EndeavourOS 🠖 Arch 🠖 NixOS 🠖 **CachyOS**⠀«⠀«⠀«⠀[**Dotfiles**](https://github.com/offeex/dotfiles)
+Manjaro 🠖 Ubuntu 🠖 EndeavourOS 🠖 Arch 🠖 NixOS 🠖 **CachyOS**⠀«⠀«⠀«⠀[**Dotfiles**](https://github.com/offsdf/dotfiles)
 
 ### Preferred Tools
 
@@ -39,5 +39,5 @@ Manjaro 🠖 Ubuntu 🠖 EndeavourOS 🠖 Arch 🠖 NixOS 🠖 **CachyOS**⠀«�
 [![Uncovered TRUTH of 2b2t Base](https://ytcards.demolab.com/?id=jmkaBRbxO6A&title=Uncovered+TRUTH+of+2b2t+Base&lang=en&timestamp=1670261111&background_color=%2313141a&title_color=%23ffffff&stats_color=%23878894&width=270 "Uncovered TRUTH of 2b2t Base")](https://www.youtube.com/watch?v=jmkaBRbxO6A) -->
 <!-- END YOUTUBE-CARDS -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=offeex&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="175px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offeex&theme=radical&langs_count=8&layout=compact&hide_border=true" height="175px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=offsdf&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1624" height="175px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offsdf&theme=radical&langs_count=8&layout=compact&hide_border=true" height="175px"/></a>
